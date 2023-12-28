@@ -3,7 +3,15 @@
 ```sh
 pip install -r requirements.txt
 ```
-
+```
+pip install Flask-SQLAlchemy
+```
+```
+pip install Flask-WTF
+```
+```
+pip install flask-cors
+```
 ## How to Run
 
 ```
